@@ -207,3 +207,12 @@ https://burnoutprediction-4687bf37.fastapicloud.dev/predict
 ## Conclusion
 
 BurnoutCompass AI is a complete production-level machine learning system that integrates data science, backend engineering, and frontend development into a single deployable application. It demonstrates real-world implementation of AI systems using modern software engineering practices.
+
+
+<div align="center">
+
+**⭐ Star this repo if you find it helpful!**
+
+Made with ❤️ by darshanbankar1915@gmail.com
+
+</div>
