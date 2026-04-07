@@ -9,7 +9,6 @@ Full-Stack Machine Learning System for Employee Burnout Prediction
 * Frontend Application: [https://burnout-compass.vercel.app/](https://burnout-compass.vercel.app/)
 * Backend API: [https://burnoutprediction-4687bf37.fastapicloud.dev/](https://burnoutprediction-4687bf37.fastapicloud.dev/)
 * Kaggle Notebook: [https://www.kaggle.com/code/maroofiums/burnoutguard-ai-predicting-employee-mental-health?scriptVersionId=307764775](https://www.kaggle.com/code/maroofiums/burnoutguard-ai-predicting-employee-mental-health?scriptVersionId=307764775)
-* GitHub Repository: [https://github.com/maroofiums/Burnout-Prediction](https://github.com/maroofiums/Burnout-Prediction)
 
 ---
 
